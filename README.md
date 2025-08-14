@@ -1,8 +1,3 @@
-<|channel|>analysis<|message|>User wants code for README with proper markdown formatting for Github. Provide final formatted README content using headings, tables, bullet points etc. Should incorporate all provided text but cleaned up and nicely structured.
-
-Will output as markdown file content.<|end|>
-
-<|start|>assistant<|channel|>final<|message|>```markdown
 # 📦 Matrix‑Net  
 **Recipe‑Based Decentralized Web**
 
