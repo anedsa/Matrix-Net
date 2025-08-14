@@ -119,16 +119,10 @@ Milestones will be refined as community feedback arrives.
 
 ## License
 
-The repository (documentation, design specs, scripts) is released under the **MIT License**.  
-When a concrete implementation appears we intend to keep it MIT‑compatible, but the license can be revisited based on contributors’ consensus.
+The repository (documentation, design specs, scripts) is released under the **Apache 2.0**.  
+When a concrete implementation appears we intend to keep it Apache‑compatible, but the license can be revisited based on contributors’ consensus.
 
 ---
-
-## Join the conversation
-
-- **GitHub Discussions** – start a new discussion or join existing threads in this repo.  
-- **Discord** – *(add link when the server is created)* – real‑time chat for rapid brainstorming.  
-- **Twitter / Mastodon** – follow `@MatrixNetProj` (create accounts if desired) for announcements.
 
 Let’s build a truly permanent, decentralized web **together**! 🚀
 ```
