@@ -101,8 +101,7 @@ Matrix‑Net is still a conceptual project, and it needs a small, dedicated team
 *You can volunteer for one role or wear multiple hats – the team will stay flexible as the project evolves.*
 
 2️⃣ Signal Your Interest
-Open an issue titled “Team Application – Your Role”. Use the template that will appear automatically (it asks for: brief bio, relevant experience, time you can commit per week, and preferred role).
-Add the label team‑application (the repo maintainer will add it if you don’t have permission).
+Discord: @Lorian95
 Get in touch!
 
 ## Roadmap (high‑level)
