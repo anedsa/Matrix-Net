@@ -97,7 +97,9 @@ Matrix‑Net is still a conceptual project, and it needs a small, dedicated team
 
 2️⃣ Signal Your Interest
 Discord: @Lorian95
+
 Reddit: u/Lorian0x7
+
 Get in touch!
 
 ## Roadmap (high‑level)
