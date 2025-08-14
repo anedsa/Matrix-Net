@@ -96,8 +96,8 @@ Matrix‑Net is still a conceptual project, and it needs a small, dedicated team
 *You can volunteer for one role or wear multiple hats – the team will stay flexible as the project evolves.*
 
 2️⃣ Signal Your Interest
-Discord: @Lorian95
 
+Discord: @Lorian95
 Reddit: u/Lorian0x7
 
 Get in touch!
